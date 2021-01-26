@@ -1,7 +1,13 @@
 # uTubeOrigin
-uBlock Origin YouTube Filters: More Content - Less Distractions
 
-## Add these lines to the "My filters" tab in the uBlock Origin settings
+## uBlock Origin YouTube Filters: More Content - Less Distractions
+
+Horizontal Listing         |  Vertical Listing  
+:-------------------------:|:-------------------------:
+![](horizontal.png)        |  ![](vertical.png)
+
+
+### Add these lines to the "My filters" tab in the uBlock Origin settings
 
 ```
 *ytimg.com*
