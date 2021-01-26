@@ -2,7 +2,7 @@
 
 ## uBlock Origin YouTube Filters: More Distraction-Less Content
 
-Horizontal Listing         |  Vertical Listing  
+Simple List                 |  Multicolumn List 
 :-------------------------:|:-------------------------:
 ![](horizontal.png)        |  ![](vertical.png)
 
