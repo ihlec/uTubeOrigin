@@ -1,6 +1,6 @@
 # uTubeOrigin
 
-## uBlock Origin YouTube Filters: More Content - Less Distractions
+## uBlock Origin YouTube Filters: More Distraction-Less Content
 
 Horizontal Listing         |  Vertical Listing  
 :-------------------------:|:-------------------------:
