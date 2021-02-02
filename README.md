@@ -16,8 +16,6 @@ Simple List                 |  Multicolumn List
 ! 2021-01-25 https://www.youtube.com
 www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint
 www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
-www.youtube.com##ytd-thumbnail.ytd-video-renderer.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint
 www.youtube.com##ytd-thumbnail.ytd-video-renderer.style-scope
 www.youtube.com###sub-menu > .ytd-section-list-renderer.style-scope
 www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
@@ -26,4 +24,9 @@ www.youtube.com##ytd-thumbnail.ytd-grid-video-renderer.style-scope > .ytd-thumbn
 www.youtube.com##ytd-thumbnail.ytd-grid-video-renderer.style-scope
 www.youtube.com###thumbnail > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint
 www.youtube.com###thumbnail
+
+! 2021-01-26 https://www.youtube.com
+www.youtube.com##ytd-playlist-thumbnail.ytd-grid-playlist-renderer.style-scope
+www.youtube.com##ytd-thumbnail.ytd-compact-video-renderer.style-scope
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
 ```
