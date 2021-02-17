@@ -10,7 +10,7 @@ Simple List                 |  Multicolumn List
 ### Add these lines to the "My filters" tab in the uBlock Origin settings
 
 ```
-*ytimg.com*
+#*ytimg.com*
 #*yt3.ggpht*
 
 ! 2021-01-25 https://www.youtube.com
